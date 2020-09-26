@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cricket-score/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/cricket-score/static/js/main.c808cf2a.chunk.js",
+    "main.js.map": "/cricket-score/static/js/main.c808cf2a.chunk.js.map",
+    "runtime-main.js": "/cricket-score/static/js/runtime-main.12ae44a7.js",
+    "runtime-main.js.map": "/cricket-score/static/js/runtime-main.12ae44a7.js.map",
+    "static/js/2.ae1ed042.chunk.js": "/cricket-score/static/js/2.ae1ed042.chunk.js",
+    "static/js/2.ae1ed042.chunk.js.map": "/cricket-score/static/js/2.ae1ed042.chunk.js.map",
+    "index.html": "/cricket-score/index.html",
+    "precache-manifest.5dcb852cc16593e43ab9b8cc68aaa585.js": "/cricket-score/precache-manifest.5dcb852cc16593e43ab9b8cc68aaa585.js",
+    "service-worker.js": "/cricket-score/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/cricket-score/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.ae1ed042.chunk.js.LICENSE.txt": "/cricket-score/static/js/2.ae1ed042.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12ae44a7.js",
+    "static/js/2.ae1ed042.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.c808cf2a.chunk.js"
+  ]
+}
